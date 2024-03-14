@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PIC24F16KA102-I_SS
+D MCU 16K Flash, Low Power XLP, SSOP28
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA18/354165.pdf
+$ENDCMP
+#
+#End Doc Library

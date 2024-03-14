@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "PIC24F16KA102-I_SS")(type "KiCad")(uri "${KIPRJMOD}/model/PIC24F16KA102-I_SS.kicad_sym")(options "")(descr ""))
+  (lib (name "New_Library")(type "KiCad")(uri "${KIPRJMOD}/New_Library.kicad_sym")(options "")(descr ""))
+)

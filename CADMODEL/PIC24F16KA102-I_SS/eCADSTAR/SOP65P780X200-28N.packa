@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "PIC24F16KA102-I_SS"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2023-06-22-02:40:16)
+    (mountForm default
+        (footprintRef "SOP65P780X200-28N")
+        (spec "System")
+    )
+)

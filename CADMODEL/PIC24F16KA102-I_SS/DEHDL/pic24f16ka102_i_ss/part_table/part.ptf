@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'PIC24F16KA102_I_SS'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Microchip", "PIC24F16KA102-I/SS" (!) = "", "SOP65P780X200-28N", "Small Outline Packages", "579-PIC24F16KA102ISS", "https://www.mouser.co.uk/ProductDetail/Microchip-Technology/PIC24F16KA102-I-SS?qs=Fllw7YelV398eJbJvYt71A%3D%3D", "MCU 16K Flash, Low Power XLP, SSOP28", "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA18/354165.pdf", "2 mm"
+END_PART
+
+END.
